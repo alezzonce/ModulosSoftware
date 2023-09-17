@@ -1,0 +1,87 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(255, 255, 255);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.contenedorFormulario {
+    background-color: rgba(0, 204, 255, 0.801);
+    height: auto;
+    width: 500px;
+    padding: 2%;
+    border-radius: 18px;
+    margin: auto;
+    margin-top: 80px;
+    margin-bottom: 100px;
+}
+
+.tituloFormulario {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgba(255, 255, 255, 0);
+    color: rgb(0, 0, 0) !important;
+    text-align: center;
+    font-size: 30px;
+    padding: 1px;
+    width: 100%;
+    height: auto;
+}
+
+.mb-3 {
+    align-items: center;
+    display: flex;
+}
+
+.mb-3 .form-label {
+    width: 100px;
+    margin-right: 20px;
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(0, 0, 0) !important;
+    text-align: left;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+button{
+    background-color: rgb(255, 255, 255);
+    padding: 15px;
+    border-radius: 18px;
+    border:0 ;
+    text-align: center;
+    margin-top: 40px;
+    margin-left: 220px;
+    margin-bottom: 20px;
+}
+
+button:hover{
+    background-color: rgb(3, 3, 3);
+    color: white;
+}
+
+.footer{
+text-align: center;
+font-family: 'Courier New', Courier, monospace;
+background-color: rgba(0, 0, 0, 0.452);
+font-size: 13px;
+padding: 10px;
+color: white;
+margin: Spx;
+height: auto;
+width: auto;
+margin-top: 50px;
+}
+
+input{
+    background: white;
+    padding: 10px 70px;
+    border: 0;
+    border-radius: 18px ;
+    margin: 4% ;
+}
+
+placeholder{
+
+    text-align: center;
+}
+
